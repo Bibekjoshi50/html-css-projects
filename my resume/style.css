@@ -1,0 +1,12 @@
+#div1{
+    background-color:rgb(255, 222, 9) ;
+    width: 1500px;
+    height: 100px;
+    margin width: 800px;
+}
+#div2{
+    height: max-content;
+    background-color: green;
+    text-align: center;
+    width: 1500px;
+}
